@@ -1,0 +1,6 @@
+apple 2
+aapl 1
+roku 2
+facebook 1
+fb 1
+spy 1
